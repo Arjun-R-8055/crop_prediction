@@ -31,6 +31,7 @@ Python (for ML models)
 Pandas, NumPy (for data handling)
 Scikit-learn, TensorFlow/Keras (for ML algorithms)
 Random Forest classifier
-8. Output:
+Google Sheets(to fecth input parameters and display the output)
+9. Output:
 Suggest the best crop for a given input condition.
 Provide fertilizer recommendations based on soil analysis.
