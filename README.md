@@ -29,8 +29,8 @@ Deployment: Use a web framework (like Flask/Django) for making predictions and d
 7. Technologies to Use:
 Python (for ML models)
 Pandas, NumPy (for data handling)
-Scikit-learn, TensorFlow/Keras (for ML algorithms)
-Random Forest classifier
+Scikit-learn, TensorFlow/Keras (for ML algorithms),
+Random Forest classifier,
 Google Sheets(to fecth input parameters and display the output)
 9. Output:
 Suggest the best crop for a given input condition.
