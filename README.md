@@ -21,7 +21,6 @@ SVM: Can be used for accurate crop classification in complex datasets.
 Regression Models for yield prediction based on fertilizers.
 5. Fertilizer Suggestion System:
 Use soil nutrient levels (N, P, K) as input and compare with the crop's nutrient requirement to suggest the right fertilizer.
-A rule-based system or K-Nearest Neighbors (KNN) can be effective for matching the crop's needs with the fertilizer.
 6. Steps to Build:
 Data Preprocessing: Clean the data, handle missing values, and normalize features.
 Model Training: Train the model using historical data on crop production, weather conditions, and soil properties.
